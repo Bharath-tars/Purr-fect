@@ -1,5 +1,5 @@
 import requests
-from message import details
+# from message import details
 
 def request_text(name,email,text):
 	NAME = name
@@ -28,7 +28,7 @@ def request_text(name,email,text):
 	for i in sentences:
 		full_data+= f"{cnt}. {i}\n"
 		cnt+=1
-	details(NAME,EMAIL,message, summary, full_data)
+	# details(NAME,EMAIL,message, summary, full_data)
 	return message, summary, full_data
 # app_version
 # time_taken
