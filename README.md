@@ -29,3 +29,7 @@ Purr-fect is a text summarization web application designed to provide users with
 
 Purr-fect was crafted with a user-friendly interface, allowing users to easily navigate and interact with the summarization features. The feline theme was chosen not only for its playful appeal but also to bring a touch of humor to the otherwise technical process of text summarization. The use of HTML, CSS, and JavaScript ensures a responsive and dynamic web application. The Flask app structure, if utilized, provides a robust backend for handling user requests and managing summarization processes. Feel free to explore the Purr-fect Summarizer, summarize your text, and enjoy the meow-tastic experience!
 Note: This README.md serves as a template and should be customized with specific details about your project.
+
+## Support Me:
+
+- **Linktree:** [https://linktr.ee/bharath2k35]
