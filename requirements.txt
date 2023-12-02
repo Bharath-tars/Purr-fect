@@ -2,5 +2,4 @@ Gunicorn
 pytz
 cs50
 Flask
-smtplib
 requests
