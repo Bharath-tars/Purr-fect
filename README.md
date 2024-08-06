@@ -1,7 +1,5 @@
 # Purr-fect!!!
 
-#### Video Demo: [Your Video URL Here]
-
 #### Description:
 Purr-fect is a text summarization web application designed to provide users with meow-tastic summaries. Whether you have lengthy articles, research papers, or any text that needs condensation, Purr-fect is here to help. The platform combines cutting-edge text summarization algorithms with a feline theme to make the summarization process not only efficient but also enjoyable.
 
